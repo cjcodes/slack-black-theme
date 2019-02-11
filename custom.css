@@ -204,7 +204,7 @@ ts-jumper input[type="text"],
 .p-channel_sidebar__link--selected:hover {
    background-color: var(--background) !important;
    border: solid var(--border-bright);
-   border-width: 1px 1px 1px 0;
+   border-width: 1px 0 1px 0;
 }
 
 .p-channel_sidebar__channel:hover,
